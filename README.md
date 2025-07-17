@@ -1,4 +1,4 @@
-# 🎨 Data-Driven Creative Portfolio
+# 🎨 My Creative Portfolio
 
 A fully responsive, vibrant one-page portfolio website for a **Full stack developer** with multidisciplinary expertise in:
 
